@@ -1,0 +1,89 @@
+{
+  "package": "meeting-summary-agent",
+  "version": "1.0.0",
+  "created": "2026-07-27",
+  "instruction_characters": 7477,
+  "instruction_utf8_bytes": 7519,
+  "files": [
+    {
+      "path": ".gitignore",
+      "bytes": 185,
+      "sha256": "f84871155fcc971874569f266556d73f39081929135736f75b53b79e72f974f4"
+    },
+    {
+      "path": "CHANGELOG.md",
+      "bytes": 469,
+      "sha256": "882b9cfa3c200258e7e10d84e54416bb6d4b952446d3bfbfc16bda380f83f960"
+    },
+    {
+      "path": "CONTRIBUTING.md",
+      "bytes": 893,
+      "sha256": "2c94f41013b7bf0a5aa7ede652bfdee9e5e766c3a7d9dd70a0ebd27d8d2a13b4"
+    },
+    {
+      "path": "LICENSE",
+      "bytes": 1073,
+      "sha256": "ea11c293fd99e542f8cc51a769c5725fcb7fe2323dc2ae6829b56ad6d6d5cea1"
+    },
+    {
+      "path": "README.md",
+      "bytes": 3165,
+      "sha256": "9e62326d047d13997552a06bd36aaba799a7417f2b90ffe5a11c16695e891797"
+    },
+    {
+      "path": "SECURITY.md",
+      "bytes": 727,
+      "sha256": "b6cdab4a9cbd18129ca892c49f1faa713e42d30d1d027286c234f7593d04e79e"
+    },
+    {
+      "path": "agent/description.md",
+      "bytes": 528,
+      "sha256": "0f53bbb5d3573a13f773b2b2a985ce78fa6774d3b1fff069a8d8940e23621263"
+    },
+    {
+      "path": "agent/starter-prompts.md",
+      "bytes": 917,
+      "sha256": "513764b63126c254a00033e694655832e05a4d2266d8d13e4be8c440187826e8"
+    },
+    {
+      "path": "agent/system-instructions.md",
+      "bytes": 7813,
+      "sha256": "c04cbdd180e060b5e56701c15455a5f723e55b4b99f9be0c8fc324ffca171a93"
+    },
+    {
+      "path": "agent/system-instructions.txt",
+      "bytes": 7519,
+      "sha256": "bc66948c60499c2fd7b5ffbcd04e5e6c4c0b11e2af4f08e70717e57d4d8cc56b"
+    },
+    {
+      "path": "configurator/configuration-quiz.md",
+      "bytes": 6918,
+      "sha256": "040a7c39e762ae2d3351f9c559290fc986e0caea69133b78b0e299274c0ff1e5"
+    },
+    {
+      "path": "docs/design-decisions.md",
+      "bytes": 1227,
+      "sha256": "7d0b238bdb72299660f1e2e7e947118fdc3936a4b858c268afd54c4b3801a42c"
+    },
+    {
+      "path": "docs/setup-guide.md",
+      "bytes": 1681,
+      "sha256": "09358d40661ba46dcffe91de5adc4689400d085eeaab307d9901c269d5693d19"
+    },
+    {
+      "path": "examples/example-output.md",
+      "bytes": 1850,
+      "sha256": "309fe45e07f063235bc889b14a940ac20c73f0678e2b3ad03d3178fc8bee51b8"
+    },
+    {
+      "path": "examples/example-transcript.md",
+      "bytes": 1351,
+      "sha256": "def96a303efe133d8e2020d933b96bab14fcefbebfddb1ed72288b5c1bb55aa6"
+    },
+    {
+      "path": "templates/company-configuration.md",
+      "bytes": 1623,
+      "sha256": "653ee7a0f03bf40f3a651a5acd68567f91b97a15e64517c5507033d46e3fc374"
+    }
+  ]
+}
